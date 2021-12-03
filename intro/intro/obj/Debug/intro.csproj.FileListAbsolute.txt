@@ -1,0 +1,6 @@
+C:\Users\f.piumatti.1365\source\repos\intro\intro\bin\Debug\intro.exe.config
+C:\Users\f.piumatti.1365\source\repos\intro\intro\bin\Debug\intro.exe
+C:\Users\f.piumatti.1365\source\repos\intro\intro\bin\Debug\intro.pdb
+C:\Users\f.piumatti.1365\source\repos\intro\intro\obj\Debug\intro.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\intro\intro\obj\Debug\intro.exe
+C:\Users\f.piumatti.1365\source\repos\intro\intro\obj\Debug\intro.pdb

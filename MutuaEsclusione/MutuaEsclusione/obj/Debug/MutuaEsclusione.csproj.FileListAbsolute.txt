@@ -1,0 +1,6 @@
+C:\Users\f.piumatti.1365\source\repos\MutuaEsclusione\MutuaEsclusione\obj\Debug\MutuaEsclusione.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\MutuaEsclusione\MutuaEsclusione\bin\Debug\MutuaEsclusione.exe.config
+C:\Users\f.piumatti.1365\source\repos\MutuaEsclusione\MutuaEsclusione\bin\Debug\MutuaEsclusione.exe
+C:\Users\f.piumatti.1365\source\repos\MutuaEsclusione\MutuaEsclusione\bin\Debug\MutuaEsclusione.pdb
+C:\Users\f.piumatti.1365\source\repos\MutuaEsclusione\MutuaEsclusione\obj\Debug\MutuaEsclusione.exe
+C:\Users\f.piumatti.1365\source\repos\MutuaEsclusione\MutuaEsclusione\obj\Debug\MutuaEsclusione.pdb

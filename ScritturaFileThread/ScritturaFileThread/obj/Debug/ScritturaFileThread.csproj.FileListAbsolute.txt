@@ -1,0 +1,5 @@
+C:\Users\f.piumatti.1365\source\repos\ScritturaFileThread\ScritturaFileThread\bin\Debug\ScritturaFileThread.exe.config
+C:\Users\f.piumatti.1365\source\repos\ScritturaFileThread\ScritturaFileThread\bin\Debug\ScritturaFileThread.exe
+C:\Users\f.piumatti.1365\source\repos\ScritturaFileThread\ScritturaFileThread\bin\Debug\ScritturaFileThread.pdb
+C:\Users\f.piumatti.1365\source\repos\ScritturaFileThread\ScritturaFileThread\obj\Debug\ScritturaFileThread.exe
+C:\Users\f.piumatti.1365\source\repos\ScritturaFileThread\ScritturaFileThread\obj\Debug\ScritturaFileThread.pdb
