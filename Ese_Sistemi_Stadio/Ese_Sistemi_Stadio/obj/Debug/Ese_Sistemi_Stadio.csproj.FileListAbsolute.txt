@@ -1,0 +1,10 @@
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\bin\Debug\Ese_Sistemi_Stadio.exe.config
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\bin\Debug\Ese_Sistemi_Stadio.exe
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\bin\Debug\Ese_Sistemi_Stadio.pdb
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.csprojAssemblyReference.cache
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.Form1.resources
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.Properties.Resources.resources
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.csproj.GenerateResource.cache
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.csproj.CoreCompileInputs.cache
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.exe
+C:\Users\f.piumatti.1365\source\repos\Ese_Sistemi_Stadio\Ese_Sistemi_Stadio\obj\Debug\Ese_Sistemi_Stadio.pdb
